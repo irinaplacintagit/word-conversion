@@ -1,7 +1,7 @@
 ## Word conversion of Integer to British Words
 
 ### Description
-that can take a Java int in the range 0 to 999,999,999 inclusive and returns the equivalent number, as a String, in British English words.
+Take a Java int in the range 0 to 999,999,999 inclusive and return the equivalent number, as a String, in British English words.
 
 Sample Data
 Input	Output
